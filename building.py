@@ -35,5 +35,5 @@ building_5.construct()
 
 buildings = [building_1, building_2, building_3, building_4, building_5]
 
-for building in buildings:
-    print(f'{building.address} was purchased by {building.owner} on {building.date_constructed} and has {building.stories} stories')
+# for building in buildings:
+#     print(f'{building.address} was purchased by {building.owner} on {building.date_constructed} and has {building.stories} stories')
